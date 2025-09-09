@@ -1,0 +1,1 @@
+# AI-Based-Estimation-of-Motor-Torque-Rotor-Temperature
